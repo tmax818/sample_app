@@ -49,3 +49,6 @@ For more information, see the
 
 ## Start of branch (static-pages)
 
+```bash
+$ rails g[enerate] controller StaticPages home help
+```
