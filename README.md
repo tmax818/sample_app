@@ -67,3 +67,12 @@ $ touch app/views/static_pages/about.html.erb
 - now it's green
 
 - add [view](app/views/static_pages/about.html.erb)
+
+- disable the layout [file](app/views/layouts/application.html.erb)
+  - I found this more confusing than just adding it to the layout file.
+
+```bash
+$ mv app/views/layouts/application.html.erb layout_file   # temporary change
+```
+
+- change the [root](config/routes.rb)
