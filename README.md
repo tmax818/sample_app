@@ -42,3 +42,7 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
+
+# My Notes:
+
+- This is my version of the rails tutorial. I have included the readme because I have a huge man-crush on Michael Hartl!
