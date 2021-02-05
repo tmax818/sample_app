@@ -90,3 +90,6 @@ $ mv app/views/layouts/application.html.erb layout_file   # temporary change
 "Hashes are essentially arrays that aren’t limited to integer indices. (In fact, some languages, especially Perl, sometimes call hashes associative arrays for this reason.)"
 
 Stopped at hashes in chapter 4...good stuff!!!
+
+
+## Start of branch (filling-in-layout)
