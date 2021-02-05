@@ -1,6 +1,10 @@
 ENV['RAILS_ENV'] ||= 'test'
 require_relative "../config/environment"
 require "rails/test_help"
+### Test Reporters
+require "minitest/reporters"
+Minitest::Reporters.use!
+#### Test Reporters
 
 class ActiveSupport::TestCase
   # Run tests in parallel with specified workers

@@ -76,3 +76,7 @@ $ mv app/views/layouts/application.html.erb layout_file   # temporary change
 ```
 
 - change the [root](config/routes.rb)
+
+- add [test reporters](test/test_helper.rb)
+
+- skipping guard for now.
