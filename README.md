@@ -52,3 +52,18 @@ For more information, see the
 ```bash
 $ rails g[enerate] controller StaticPages home help
 ```
+
+- modify [home.html.erb](app/views/static_pages/home.html.erb)
+- modify [help.html.erb](app/views/static_pages/help.html.erb)
+- write [tests](test/controllers/static_pages_controller_test.rb)
+
+- add [route](config/routes.rb)
+- add [controller](app/controllers/static_pages_controller.rb)
+
+```bash
+$ touch app/views/static_pages/about.html.erb
+```
+
+- now it's green
+
+- add [view](app/views/static_pages/about.html.erb)
