@@ -80,3 +80,13 @@ $ mv app/views/layouts/application.html.erb layout_file   # temporary change
 - add [test reporters](test/test_helper.rb)
 
 - skipping guard for now.
+
+"I don’t think anyone ever understood objects by reading the definition in a book; you have to build up your intuition for objects by seeing lots of examples."
+
+"blocks ... are simultaneously one of Ruby’s most powerful and most confusing features"
+
+"blocks are closures, which are one-shot anonymous functions with data attached."
+
+"Hashes are essentially arrays that aren’t limited to integer indices. (In fact, some languages, especially Perl, sometimes call hashes associative arrays for this reason.)"
+
+Stopped at hashes in chapter 4...good stuff!!!
