@@ -46,3 +46,6 @@ For more information, see the
 # My Notes:
 
 - This is my version of the rails tutorial. I have included the readme because I have a huge man-crush on Michael Hartl!
+
+## Start of branch (static-pages)
+
