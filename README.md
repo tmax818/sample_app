@@ -54,3 +54,32 @@ rails generate controller StaticPages home help
 - update [help](app/views/static_pages/help.html.erb)
 
 - update [routes](config/routes.rb)
+
+## ch 5
+
+- update [application_controller](app/views/layouts/application.html.erb)
+- update [home](app/views/static_pages/home.html.erb)
+- download image:
+
+```
+$ curl -o app/assets/images/rails.svg -L https://cdn.learnenough.com/rails.svg
+```
+
+## partials
+
+```
+touch app/views/layouts/_shim.html.erb
+```
+- update [shim](app/views/layouts/_shim.html.erb)
+
+```
+touch app/views/layouts/_header.html.erb
+```
+
+- update [header](app/views/layouts/_header.html.erb)
+
+```
+touch app/views/layouts/_footer.html.erb    
+```
+- update [footer](app/views/layouts/_footer.html.erb)
+
