@@ -49,3 +49,8 @@ run:
 ```
 rails generate controller StaticPages home help
 ```
+
+- update [home](app/views/static_pages/home.html.erb)
+- update [help](app/views/static_pages/help.html.erb)
+
+- update [routes](config/routes.rb)
